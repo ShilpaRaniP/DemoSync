@@ -14,5 +14,8 @@ public class OrderTest {
 	{
 		System.out.println("executing updateOrderTest");
 	}
+<<<<<<< HEAD
 
+=======
+>>>>>>> branch 'Version1.2.0' of https://github.com/ShilpaRaniP/DemoSync.git
 }
