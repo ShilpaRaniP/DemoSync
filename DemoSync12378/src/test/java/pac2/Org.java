@@ -18,10 +18,5 @@ public class Org {
 		System.out.println(" executed modifyOrgTest");
 	}
 	
-	@Test
-	public void deleteOrgTest()
-	{
-		System.out.println(" executed deleteOrgTest");
-	}
 
 }
