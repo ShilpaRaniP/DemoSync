@@ -17,11 +17,4 @@ public class ContactTest {
 		System.out.println(" executed createContactWithPhoneNo");
 	}
 	
-	
-	@Test
-	public void updateContact()
-	{
-		System.out.println(" executed updateContact");
-	}
-
 }

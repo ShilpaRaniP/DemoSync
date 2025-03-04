@@ -12,14 +12,7 @@ public class OrderTest {
 	@Test
 	public void updateOrderTest()
 	{
-		System.out.println("executing updateOrderTest....");
-	}
-	
-	@Test
-	public void modifyOrderTest()
-	{
-		System.out.println("executing modifyOrderTest");
+		System.out.println("executing updateOrderTest");
 	}
 
-	
 }
