@@ -17,5 +17,13 @@ public class ContactTest {
 		System.out.println(" executed createContactWithPhoneNo");
 	}
 	
+<<<<<<< HEAD
 	
+=======
+	@Test
+	public void updateContact()
+	{
+		System.out.println(" executed updateContact");
+	}
+>>>>>>> branch 'master' of https://github.com/ShilpaRaniP/DemoSync.git
 }
