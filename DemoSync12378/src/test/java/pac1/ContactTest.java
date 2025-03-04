@@ -22,4 +22,9 @@ public class ContactTest {
 	{
 		System.out.println(" executed updateContact");
 	}
+	@Test
+	public void deleteContact()
+	{
+		System.out.println(" executed deleteContact");
+	}
 }
