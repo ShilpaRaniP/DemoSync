@@ -12,8 +12,9 @@ public class OrderTest {
 	@Test
 	public void updateOrderTest()
 	{
-		System.out.println("executing updateOrderTest....");
+		System.out.println("executing updateOrderTest");
 	}
+<<<<<<< HEAD
 	
 	@Test
 	public void modifyOrderTest()
@@ -22,4 +23,6 @@ public class OrderTest {
 	}
 
 	
+=======
+>>>>>>> branch 'Version1.2.0' of https://github.com/ShilpaRaniP/DemoSync.git
 }
