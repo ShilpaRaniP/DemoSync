@@ -14,15 +14,5 @@ public class OrderTest {
 	{
 		System.out.println("executing updateOrderTest");
 	}
-<<<<<<< HEAD
-	
-	@Test
-	public void modifyOrderTest()
-	{
-		System.out.println("executing modifyOrderTest");
-	}
 
-	
-=======
->>>>>>> branch 'Version1.2.0' of https://github.com/ShilpaRaniP/DemoSync.git
 }
